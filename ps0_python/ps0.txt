@@ -1,0 +1,13 @@
+
+2. d. Since there are a lot of red pixels in the image, the monochrome created with the red channel is more lighter since the intensity 	values are high, (closer to 255) than the one created with the green channel, where there are many low intensity pixels(closer to 0). Algorithm will work better with the red channel monochrome image since it has good contrast and brightness, edges and features are visible.
+
+4. a. 
+Min: 1
+Max: 237
+Mean: 52.559173584
+Standard Deviation: 42.278426053
+
+
+5. a. The noise is somewhat visible with sigma value 0.3	
+5. c. Bluenoise image looks better because the intensity of blue pixels in the image is lesser than that of the green pixels. 
+	 Hence adding blue noise was not as effective as adding green noise at the same sigma value.	
